@@ -1,0 +1,2 @@
+# classA
+my classA
